@@ -7,7 +7,7 @@ Hello 👋, I'm Zulfiqar Ali, a passionate frontend engineer from Gilgit-Baltist
 - 👯 I’m looking to collaborate on **open source projects and innovative frontend solutions**.
 - 🤔 I’m looking for help with **advanced Kubernetes deployments**.
 - 💬 Ask me about **React, Vue, JavaScript, and web performance optimization**.
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **zulfi035541@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love to play chess and explore new tech gadgets**.
 
