@@ -20,7 +20,7 @@ Hello 👋, I'm Zulfiqar Ali, a passionate frontend engineer from Gilgit-Baltist
 
 ## 📈 GitHub Stats
 
-![Zulfiqar's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Zulfiqar's GitHub stats](https://github-readme-stats.vercel.app/api?Zulfiqar05=your-github-Zulfiqar05&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
